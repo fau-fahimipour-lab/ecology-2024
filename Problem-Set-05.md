@@ -67,3 +67,7 @@ Is there a less impactful way to go about investigating these questions?
 Now, consider how this theory might apply to "islands" of habitat in fragmented **terrestrial** landscapes on the mainland.
 How might the principles of island biogeography inform our conservation strategies for fragmented ecosystems?
 In your answer discuss how concepts like immigration, extinction, and habitat size might change in fragmented landscapes, and consider human impacts.
+
+## Question 3
+
+**3.1.** Based on the study of fish responses to misinformation from this week's virtual lecture, consider how information and misinformation might spread differently in animal populations on islands of various sizes. How would you expect (mis)information to be controlled or amplified in animal groups on large/small or near/far islands, where group sizes and isolation levels vary? Use insights from island biogeography (like species immigration and extinction) and the fish study’s findings on group size to support your argument.
